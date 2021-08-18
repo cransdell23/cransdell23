@@ -1,4 +1,11 @@
-### Hi there 👋
+## My Name is Cam
+**I’m currently in a robotics class**
+### I am excited to learn how to make more complicated robots
+### Some of my Favorite Hobbies are:
+- Gaming
+- Break Dancing
+- Doing Tricks on my Trampoline
+#### You can also learn how to make a profile by going to [This Link](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 <!--
 **cransdell23/cransdell23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +13,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+**I’m currently in a robotics class**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
